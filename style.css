@@ -8,8 +8,53 @@ body {
 
 }
 
-h1, ol, label {
 
+h1{
+
+    background-color:red;
+    margin-left: 30%;
+    margin-right:30%;
+}
+div.meow{
+    text-align:center;
+    margin-left: 40%;
+    margin-right:40%;
+   
+}
+div.bow{
+    text-align: center;
     background-color: red;
+    margin-left: 35%;
+    margin-right:35%;
+    display: flex;
+    align-items:flex-start;
+    
+
+}
+div.roar{
+    text-align: center;
+    background-color: red;
+    margin-left: 45%;
+    margin-right:44%;
+    display: flex;
+    align-items:flex-start;
+    
+
+}
+div.triumph{
+    text-align: center;
+    background-color: red;
+    margin-left: 45%;
+    margin-right:45%;
+    display: flex;
+    align-items:flex-start;
+    
+
+}
+div.button{
+    text-align: center;
+    
+    
+    
 
 }
