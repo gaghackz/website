@@ -18,8 +18,8 @@ h1{
 }
 div.meow{
     text-align:center;
-    margin-left: 40%;
-    margin-right:40%;
+    margin-left: 15rem;
+    margin-right:15rem;
     
    
 }
@@ -27,8 +27,8 @@ div.bow{
     text-align: center;
     background-color: red;
     border-radius: 20px;
-    margin-left: 35%;
-    margin-right:35%;
+    margin-left: 32rem;
+    margin-right:34rem;
     display: flex;
     align-items:flex-start;
     
@@ -37,8 +37,8 @@ div.bow{
 div.roar{
     text-align: center;
     background-color: red;
-    margin-left: 45%;
-    margin-right:44%;
+    margin-left: 43rem;
+    margin-right:43rem;
     border-radius: 20px;
     display: flex;
     align-items:flex-start;
@@ -48,8 +48,8 @@ div.roar{
 div.triumph{
     text-align: center;
     background-color: red;
-    margin-left: 45%;
-    margin-right:45%;
+    margin-left: 43rem;
+    margin-right:44rem;
     border-radius: 20px;
     display: flex;
     align-items:flex-start;
