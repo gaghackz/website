@@ -14,16 +14,19 @@ h1{
     background-color:red;
     margin-left: 30%;
     margin-right:30%;
+    border-radius: 20px;
 }
 div.meow{
     text-align:center;
     margin-left: 40%;
     margin-right:40%;
+    
    
 }
 div.bow{
     text-align: center;
     background-color: red;
+    border-radius: 20px;
     margin-left: 35%;
     margin-right:35%;
     display: flex;
@@ -36,6 +39,7 @@ div.roar{
     background-color: red;
     margin-left: 45%;
     margin-right:44%;
+    border-radius: 20px;
     display: flex;
     align-items:flex-start;
     
@@ -46,6 +50,7 @@ div.triumph{
     background-color: red;
     margin-left: 45%;
     margin-right:45%;
+    border-radius: 20px;
     display: flex;
     align-items:flex-start;
     
