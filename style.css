@@ -3,10 +3,12 @@ body {
     height : 100%;
     width: 100%;
     background-color: lightcoral;
+    background-image: url("https://th.bing.com/th/id/OIP.gAc9fLOUa6-jpMpfxO8CpAHaEK?rs=1&pid=ImgDetMain");
+    
 
 }
 
-h1, ol {
+h1, ol, label {
 
     background-color: red;
 
