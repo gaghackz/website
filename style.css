@@ -16,13 +16,54 @@ h1{
     margin-right:30%;
     border-radius: 20px;
 }
-div.meow{
+
+.dropdown-button{
+    align-items: center;
+    padding:40px;
     text-align:center;
-    margin-left: 15rem;
-    margin-right:15rem;
+    font-size: 25px;
+    border:none;
+    border-radius: 30px;
+    cursor:pointer;
+}
+.button-container{
+    text-align:center;
+}
+
+.center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+div.meow{
+
+    display:none;
+    margin-left: 38rem;
+    margin-right:38rem;
+    background-color:lightblue;
+
+    
     
    
 }
+.meow a{
+    text-decoration: none;
+    color:black;
+    padding: 11px 12px;
+    display:block;
+}
+
+.meow a:hover{
+    background-color:rgb(6, 154, 223); 
+}
+.dropdown:hover .meow{
+    display:block;
+}
+
+
 div.bow{
     text-align: center;
     background-color: red;
