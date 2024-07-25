@@ -41,26 +41,31 @@ h1{
 div.meow{
 
     display:none;
-    margin-left: 38rem;
-    margin-right:38rem;
     background-color:lightblue;
-
+    width: fit-content;
+    margin: 0 auto;
     
-    
-   
 }
+
 .meow a{
     text-decoration: none;
     color:black;
-    padding: 11px 12px;
+    padding: 5px;
     display:block;
+    text-align: center;
+    
+    
 }
 
 .meow a:hover{
     background-color:rgb(6, 154, 223); 
 }
 .dropdown:hover .meow{
+    margin: 0 auto;
     display:block;
+}
+.dropdown {
+    margin: 0 auto;
 }
 
 
